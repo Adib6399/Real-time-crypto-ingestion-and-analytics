@@ -64,6 +64,8 @@ Auto-refreshing every 1.5s with:
 
 ---
 
+Use App3
+
 # 🏗 Architecture Overview
             ┌──────────────────────────┐
             │    Binance WebSockets     │
